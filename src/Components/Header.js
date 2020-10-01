@@ -17,7 +17,7 @@ const Header = () => {
     <div className="header">
       <div className="header_left">
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Facebook_logo.jpg"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png"
           alt="facebooklogo"
         />
       </div>
